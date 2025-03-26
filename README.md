@@ -15,6 +15,16 @@
 - Conhecer os estados reservados void e coringa
 - Animar elementos que não estão anexados ao DOM com :enter e :leave
 
+### Angular: aprimore suas técnicas de animação e crie interfaces ainda mais atraentes
+
+- Adicionar estilos intermediários às animações com keyframes
+- Personalizar a velocidade e aceleração usando cubic-bezier
+- Criar animações simultâneas com group
+- Animar elementos aninhados com query
+- Atualizar dados da aplicação utilizando BehaviorSubject
+- Sequenciar suas animações com stagger
+- Desabilitar animações quando necessário
+
 ## 🖥️ Tecnologias
 
 <div>
